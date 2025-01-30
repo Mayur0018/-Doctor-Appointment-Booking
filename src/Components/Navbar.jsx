@@ -96,7 +96,7 @@ export default function Navbar() {
             <NavLink onClick={() => setShowMenu(false)} to="/about">
               <p className="px-4 rounded inline-block">About</p>
             </NavLink>
-            <NavLink onClick={() => setShowMenu(false)} to="/contact">
+            <NavLink onClick={() => setShowMenu(false)} to="/Contect">
               <p className="px-4 rounded inline-block">CONTACT</p>
             </NavLink>
           </ul>
