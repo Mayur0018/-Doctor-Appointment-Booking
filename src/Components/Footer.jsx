@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm">
         {/*..........Left Section.................*/}
         <div>
-          <img className="w-40" src={assets.logo} alt="" />
+          <img className="w-40  mt-[-3.5rem]" src={assets.healthBuddy} alt="" />
           <p className=" w-full md:w-2/3 text-gray-600 leading-6">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit.
             Consequatur necessitatibus officia eveniet. Quos quasi similique,
