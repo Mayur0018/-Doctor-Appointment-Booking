@@ -20,7 +20,7 @@ export default function Footer() {
           <ul className=" flex flex-col gap-2 text-gray-600">
             <li>Home</li>
             <li>About Us</li> 
-            <li>Contect Us</li>
+            <li>Contect US</li>
             <li>Privacy Policy</li>
           </ul>
         </div>
