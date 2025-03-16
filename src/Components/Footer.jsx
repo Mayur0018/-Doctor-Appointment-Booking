@@ -37,7 +37,7 @@ export default function Footer() {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          CopyRight 2024@HEALTHBuddy - All Right Reserved
+          CopyRight 2024@HEALTHBUDDY - All Right Reserved
         </p>
       </div>
     </div>
